@@ -48,7 +48,5 @@ GROUP BY gender;
 2. Run analysis.sql file
 3. Explore insights
 
-## 📬 Contact
 
-* LinkedIn: (Add your link)
 
